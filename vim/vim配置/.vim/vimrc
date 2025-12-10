@@ -1,0 +1,13 @@
+syntax on
+set number
+set relativenumber
+set cursorline
+set showcmd
+set wildmenu
+set hlsearch
+set incsearch
+exec "nohlsearch"
+
+
+map s :w<CR>
+map Q :q<CR>
