@@ -1,3 +1,8 @@
+
+# yazi配置说明文档https://github.com/jaywcjlove/reference/blob/main/docs/yazi.md
+# 参考配置：https://github.com/theniceboy/.config/blob/master/yazi/yazi.toml
+
+# 文件打开操作
 [open]
 rules = [
 	# Folder - 目录规则
